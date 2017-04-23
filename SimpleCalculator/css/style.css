@@ -1,0 +1,36 @@
+﻿html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+
+html, body {
+	font-family: 'Open Sans', sans-serif;
+    min-height: 100%;
+    max-height: 100%;
+    overflow: visible;
+    counter-reset: section;
+    overflow-x:hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer
+{
+    position: relative;
+    width: 100%;
+        margin-top:35px;
+    /* Set the fixed height of the footer here */
+    
+}
+
+.navbarcolor
+{
+    color:white;
+}
