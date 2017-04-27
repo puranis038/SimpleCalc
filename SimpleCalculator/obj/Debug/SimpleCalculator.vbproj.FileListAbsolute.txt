@@ -21,3 +21,4 @@ F:\Easy Design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbpr
 F:\Easy Design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
 F:\Easy Design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.xml
 F:\Easy Design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+F:\Easy Design\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbprojResolveAssemblyReference.cache
